@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Tran Quoc Phuc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👀 I'm interested in...WdGm
+- 🌱 Currently I am studying at Ho Chi Minh City University of Technical Education
 
 <!---
-04102003trinh/04102003trinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WD1/WD1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
